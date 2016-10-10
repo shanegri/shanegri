@@ -1,19 +1,19 @@
 html *
 {
-	font-size: 1em !important;
+	
 	font-family: Arial !important;
-
 }
 
 
-body {
-
+body 
+{
 	background-color: lightblue;
 	text-align: center;
 }
 
 
-head {
+head 
+{
 
 
 
