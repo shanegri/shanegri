@@ -7,7 +7,7 @@ html *
 
 body 
 {
-	background-color: white;
+	background-color: lightblue;
 	text-align: center;
 }
 
@@ -22,5 +22,11 @@ head
 .randomPar{
 	color: blue;
 
+
+}
+
+.hr{
+
+	border-width: 3;
 
 }
